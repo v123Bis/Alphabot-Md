@@ -25,14 +25,14 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "< Fvp Full By MasPol >" //namabot kalian
-global.ownername= "∅ Fvp Full ×፝֟͜×" //nama kalian
+global.botname = "Fvp Full" //namabot kalian
+global.ownername= "Fvp Full" //nama kalian
 global.myweb ="https://wa.me/6283183321692" //bebas asal jan hapus
 global.youtube = "→ ZeeoneOfc ←" //bebas asal jan hapus
 global.myweb2 = "https://wa.me/6283183321692" //bebas
-global.email = "fvp 😂 @gmail.com" //bebas
+global.email = "fvp011@gmail.com" //bebas
 global.region = "Indonesia" //bebas
-global.timezone = 'Asia/Medan' //  timezone wib
+global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['6283183321692'] //premium user
 global.owner = ["6283183321692","6285171162423"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "6283183321692" // nomor wa kalian
